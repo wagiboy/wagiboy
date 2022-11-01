@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wagiboy
-- 👀 I’m interested in Solidity, VUEjs, DAOs, stablecoins, dAPPs and bachata dancing 😉💃
-- 🌱 I’m ALWAYS learning...
+- 👀 I’m interested in decentralized decision markets - DDMs, DAOs, dAPPs and bachata dancing 😉💃
+- 🌱 I’m ALWAYS learning Solidity, remix, and VUEjs. 
 - 💞️ I’m looking to collaborate on dAPP development.
 - 📫 How to reach me by email - wagiboy@gmail.com
 
